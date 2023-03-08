@@ -1,8 +1,7 @@
 ### Hi
 
-Welcome to my github page. I'm a guy with an interest in machine learning and artifical intelligence mainly, thought I also dabble just a little in systems programming and linux.
+Welcome to my github page. I'm a guy with an interest in machine learning and artifical intelligence mainly, though I also dabble just a little in systems programming and linux.
 
-To look at what I do beyond my code, you can visit my [website](https://ravimaithrey.com)
 
 <!--
 **ravi-maithrey/ravi-maithrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
